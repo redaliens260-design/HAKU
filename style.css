@@ -1,0 +1,154 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+  background: radial-gradient(circle at top, #1b1b3a, #050510);
+  color: white;
+  text-align: center;
+  min-height: 100vh;
+}
+
+header {
+  padding: 40px 20px;
+}
+
+.logo img {
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  object-fit: cover;
+  box-shadow: 0 0 30px #9945ff;
+}
+
+.logo h1 {
+  font-size: 42px;
+  margin-top: 20px;
+  color: #ffffff;
+}
+
+.logo p {
+  color: #14f195;
+  font-size: 18px;
+}
+
+
+.hero {
+  padding: 40px 20px;
+}
+
+.hero h2 {
+  font-size: 38px;
+  margin-bottom: 20px;
+  color: #9945ff;
+}
+
+.hero p {
+  max-width: 600px;
+  margin: auto;
+  font-size: 17px;
+  line-height: 1.7;
+  color: #ddd;
+}
+
+
+.buttons {
+  margin-top: 35px;
+}
+
+.buttons a {
+  display: inline-block;
+  margin: 10px;
+  padding: 14px 30px;
+  border-radius: 30px;
+  text-decoration: none;
+  color: white;
+  background: linear-gradient(45deg, #9945ff, #14f195);
+  font-weight: 600;
+  transition: 0.3s;
+}
+
+.buttons a:hover {
+  transform: scale(1.08);
+  box-shadow: 0 0 20px #14f195;
+}
+
+
+section {
+  padding: 50px 20px;
+}
+
+
+section h2 {
+  font-size: 32px;
+  margin-bottom: 25px;
+}
+
+
+.about p {
+  max-width: 600px;
+  margin: auto;
+  color: #ccc;
+}
+
+
+.tokenomics {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+
+.card {
+  background: rgba(255, 255, 255, 0.08);
+  padding: 25px;
+  width: 250px;
+  border-radius: 20px;
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+}
+
+
+.card h3 {
+  color: #14f195;
+  margin-bottom: 10px;
+}
+
+
+.roadmap ul {
+  list-style: none;
+}
+
+.roadmap li {
+  margin: 15px;
+  font-size: 18px;
+}
+
+
+footer {
+  padding: 30px;
+  color: #888;
+}
+
+
+@media(max-width:600px) {
+  
+  .logo h1 {
+    font-size: 32px;
+  }
+  
+  .hero h2 {
+    font-size: 28px;
+  }
+  
+  .buttons a {
+    display: block;
+    margin: 15px auto;
+    width: 80%;
+  }
+  
+}
