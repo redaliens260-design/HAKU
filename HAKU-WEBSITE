@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>HAKU COIN ($HAKU)</title>
+
+    <link rel="stylesheet" href="style.css">
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+
+<header>
+
+    <div class="logo">
+
+        <img src="logo.jpg" alt="HAKU Logo">
+
+        <h1>HAKU COIN</h1>
+
+        <p>$HAKU • Solana Meme Coin</p>
+
+    </div>
+
+</header>
+
+
+<section class="hero">
+
+    <h2>I Want Hug Moon 🌙</h2>
+
+    <p>
+        HAKU is a community-driven meme coin built on Solana.
+        A lonely wolf looking at the moon,
+        waiting to reach the moon together with the community.
+    </p>
+
+
+    <div id="countdown">
+        Loading...
+    </div>
+
+
+    <div class="buttons">
+
+        <a href="https://x.com/HAKUOnSolana" target="_blank">
+            𝕏 Twitter
+        </a>
+
+
+        <a href="https://t.me/HAKUonsolana" target="_blank">
+            Telegram
+        </a>
+
+
+        <a href="#" target="_blank">
+            Buy on Pump.fun
+        </a>
+
+    </div>
+
+</section>
+
+
+
+<section class="about">
+
+    <h2>About HAKU</h2>
+
+    <p>
+        HAKU is more than just a meme coin.
+        It represents patience, loyalty,
+        and the dream of reaching the moon together.
+    </p>
+
+</section>
+
+
+
+<section class="tokenomics">
+
+    <h2>Tokenomics</h2>
+
+
+    <div class="card">
+
+        <h3>Blockchain</h3>
+
+        <p>Solana</p>
+
+    </div>
+
+
+    <div class="card">
+
+        <h3>Ticker</h3>
+
+        <p>$HAKU</p>
+
+    </div>
+
+
+    <div class="card">
+
+        <h3>Supply</h3>
+
+        <p>Community Driven</p>
+
+    </div>
+
+
+</section>
+
+
+
+
+<section class="roadmap">
+
+    <h2>Roadmap</h2>
+
+
+    <ul>
+
+        <li>✅ Launch on Pump.fun</li>
+
+        <li>🚀 Build Community</li>
+
+        <li>📈 Reach 100K MC</li>
+
+        <li>🌕 HAKU To The Moon</li>
+
+    </ul>
+
+
+</section>
+
+
+
+
+<section class="community">
+
+    <h2>Join The HAKU Family</h2>
+
+    <p>
+        Follow our journey and don't miss the moon mission.
+    </p>
+
+
+</section>
+
+
+
+
+<footer>
+
+    <p>
+        © 2026 HAKU COIN • Built on Solana
+    </p>
+
+</footer>
+
+
+
+<script src="script.js"></script>
+
+
+</body>
+
+</html>
